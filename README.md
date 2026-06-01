@@ -1,14 +1,6 @@
 # Assignment #4 — Environmental Sound Classification
 **Alexandria University | CSE: Pattern Recognition**
  
-| Name | Student ID |
-|------|-----------|
-| Omar Khaled Hussien | 22010962 |
-| Yaseen Asaad Ahmed | 22011349 |
-| Ahmed Mohamed Mansour | 22010576 |
- 
----
- 
 ## Overview
 GRU-based deep learning classifier for the [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) dataset — 8,732 labelled urban audio clips across 10 classes.
  
